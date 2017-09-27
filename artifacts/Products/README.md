@@ -1,6 +1,11 @@
 # Product demo flow
 
+ * Clear all public Arcs: https://us-central1-arcs-storage.cloudfunctions.net/privatize
+
+
 ## Setup wish list
+
+ * Remove any existing public Arc (careful this is a global change): https://us-central1-arcs-storage.cloudfunctions.net/privatize
 
 As user who receives gifts, e.g. Claire:
 
